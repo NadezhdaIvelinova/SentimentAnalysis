@@ -1,0 +1,154 @@
+﻿Need an option to move multiple sub accounts under directories
+I'm got a global account with same name and I can't use it because this trial account can't ben merged, same email.
+Need an option to force delete service instances, when developing
+Today the Business Application Studio cannot start properly a Dev Space, which is sad.
+All tutorials available in Internet seem to be out of date. I can't find some entitlements or simply put it to work.
+Still confused.
+I keep getting directed towards BTP Cockpit although I got here through the official BTP NEO Cockpit documentation.... I manually have to enter /neo/ into the url.
+It is to be lost in front at even the smaller issue compared to what I can read on https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%204#createDevSpace It is hours I am on "Creating the project" form the "welcome screen", select "Start from Template" to start the wizard. Instead, after selecting "Start from Template" a white page gets opened every time. No tips collected were useful...
+Dear Team, In Feature Set B, we don't have drop down option to navigate between Subaccounts on most top. We need to go back to Global account then come back to required subaccount. Kindly add that feature.
+Tool is too complex and less user friendly. 
+no technical description...plenty of advertisement material, the system is not usable without proper description
+The ever changing navigation to is frustrating. It is getting more and more complex and less and less documentation makes is even hard to maintain.
+After adding a 'service plan', the message 'You have unsaved changes' is at the bottom of Service list the end-user may miss this information and they do not know they need to perform the 'Save' action for a new comer. 
+Getting logged into services is extremely cumbersome and not at all intuitive.
+I can't use sap web ide , I can't make application extensions
+I use BTP Cockpit in my daily work. Often I have to deploy an app and then check something in the cockpit. Always it is timed out, even after deploying one app. It is so annoying. Also, the management of destinations on Space level is cumbersome, the shortcut from the service instance is not working any longer. Now I have to open the instance, click on Manage Instance, see a screen that I never need, do another click to finally reach my goal. When you look at MS Excel Online, you do not get these timeouts. Please raise the timeout to 1hour instead of some minutes...
+It would be nice to add multiple subaccounts in a directory.
+It's strange that a subaccount administrator is not able to have automatically access to cloud foundy. I'm admin, but I can't administrate a sub object if a colleague (with the same right) forget to give me access !
+To be honest everything is going as expected. 
+hello, am i doing something wrong? every day you guys stop my services, i have to restart it
+I like the UI feel and design
+Good product....
+ I'm looking for SAP Work Zones.  I see nothing about it in here.  
+My setup for RPA failed and it is not clear how to go further
+I dont have SAP Business Application Studio access says Check Your Trial Account everytime
+I think BTP needs to evolve a lot. There is no official SAP documentation for many points. It is necessary to use different blogs to understand what needs to be done and besides that, not even the SAP team has the knowledge and maturity for the product (example: odata in Foundry). In addition to the security issue related to the profiles being very weak, leaving several points at risk (example: space developer profile is very broad and we have no way of segregating atctivities)
+Things are getting more complex
+The Cockpit is very confusing and necessary applications like role assignment cannot be found
+I am student & can i have a free access code to login sap 740.
+The session timeouts in the UI interface are too short : you go lunch and then you do not even know that the screen cannot refresh anymore, because your session expired. None of the hyperscalers are doing such aggressive timeouts in their interfaces. Please make the timeout larger, like every 8 or 12 hours or so. 
+Recently, we found some service instances are replaced(create a new instance to replace the instance being used), But we don't know how this could happen, is there any hacker? When a service instance is created, please show the creator and time when items is created in service instance details page. thanks a lot. 
+really very good , want to try more!! thanks
+some of the functionality not working like enable trust as tenant is missing. Trust configuration is important ..it should be working atleast for default identity provider
+very slow - instance creation / update timeout.
+Loading of service instances is very very slow
+BTP UI is full of hassle and confusion, not easy to operate, being changed over a short period of time so that its very difficult to find anything again and again. I am searching of Business Application Studio in my subaccount subscription but its not there, here I am following some guideline. I need help in this situation
+The BTP and BAS is very complicated. More documentation needs to be available for these tools.
+Hi, The SAP Business Application Studio is not stable enough to support a daily development. Every day there is a crash or a button that does not work. Right now I am working with the Workflow Designer and I cannot use the button "Select file" in a Script task. Today I am performing some changes in the workflow and for 2 times my changes were not persisted. I had to close the window and open again. I lost part of my work twice. Hope that this product gets more stable in the future.
+I don't know how to set the org quota of Cloud Foundry, and find no help in doc.
+This IDE is the best, realy!
+Where is Mobile Services?!??!
+Note able to find sap warehouse insights in service marketplace.
+liked the account explorer and the new filtering by labels. thank you.
+Unable to see SAP Cloud Identity Access Governance Service in entitlements to add.
+no idea what's going on here
+wtf
+The sidebar is very hard to navigate without the text for the single menu points. There is also no setting to un-collapse the sidebar at this point which is super frustrating.
+The access to services and the structure of the account/subaccount/space it's quite confusing, one expects to be superuser for the subaccounts if you are superuser in the global account, now I should be asking who create the subaccount to be allowed to work with it. Too hard and anti-intuitive to start 
+Session Time out to short
+Excellent opportunity to learn this tool, thank you!
+The subaccounts breadcrumbs is not a drop down list when clicked. It should be a drop down list like the applications breadcrumbs. 
+get the message that no identity provider is assigned, but it is listed. so no idea. And also cannot easily delete this instance to request a new one. 
+good UI and good functioning
+Capabilities have been unresponsive for many days. After deleting subaccount it is now possible to add API management as a capability. But it is still not possible to access API management due to a account provisioning error.
+Trail period should be of 180 days
+Super Desing, Performance and many help details.
+switching from subacount to subacount is in some cases impossible 
+I cannot create any instances or subscription in our test environment
+trying to use hana cloud so, and i am not able to find 'SAP hana cloud' in entitlements page
+cockpit sucks, i spent more than 4-5 days, just to start using the hana cloud though i chosen all possible hana cloud * while creating global account, i am unable to find out the hana cloud listed in entitlement page., when i goto spaces/quota plans, i am unable to create it, i get space quota exceeds org quota limit TOTALLY COMPLICATED to USE COCKPIT
+Overall the experience is not that bad but the flow and loading of the pages are really slow and lagging. Some parts are quite complex looking
+Because I can't delete an Application
+WebIDE is down
+As expected
+Adding excel export functionality to Roles Collections users list would be very helpful.
+Just can't find any way to maintain contacts receiving notifications related to SAP BTP or its subaccounts.
+TIME OUT to short
+Why are repository names limited to lower case letters and numbers only.  Seems very odd and limiting. Yes, we can add to the Description, but the naming gets confusing. 
+How can I find out my feature set?
+Excelent
+Dev space layout mismatch unable to access any items or create a project from template
+There should be an option to extend the free trial beyond 1year instead of deleting it. I am using it extensively along with the tutorials in SAP dev portal and would be a big loss to see the system get deleted and having to start over again.
+Activation of capabilities in Integration Suite takes too long!!!!
+Waiting Script server enabled on SAP HANA Cloud
+Looks like the system was migrated to a new host. There is no prior notification to us. All our real-time replication using SAP SDI has stopped and not working. This being a qtr close - its an issue
+Page is slow and always timeout after a few minutes.
+Very slow and hard to use. I tried to create API management and it failed with "no API management." How is it possible to solve this?
+cockpit UI might be different depending on the cloud services in question. 
+Instructions to set up can be very unclear, having difficulty interacting with preinstalled SAP
+not able configure services
+navigation concept is not intuitive and you get lost in the quite technical entities having similar names. Poor experience with trial tenant gets deleted...
+It would be very nice to have quota consumption information inside the space, in the header section instead of having to go to subaccount level to see memory usage for instance.
+The User interface is pretty cool, but one thing I did not like is sometimes the buttons don't respond instantly, it takes a few seconds before I see the sign of loading.
+Where can I locate HANA WEB IDE development 
+ui is too slow
+Time Out auf dem Cookpit are to short
+Time Out Cockpit to Short 
+Time Out Cloud Coockpit to short
+Performance of SAP BTP is really bad right now. I just used the neo sdk console to create a new subaccount copying members / destinations - and this is taking ages to complete.The console already gave me the feedback that the subaccount creation was successful, but despite everything I try (refresh/reload/relogin), that subaccount doesnt show up. Its quite a hassle working with SAP BTP these days
+"Access Denied. You do not have the necessary roles to access SAP Business Application Studio. Read more about managing authorizations and roles for SAP Business Application Studio. What does it mean to go to SAP Business Application Studio for half a day
+No specific solution was given at all.."
+Appguyver is not available in booster
+I don't like that my trial account expires so often. I log in maybe every 2 or 3 weeks, sometimes every day and sometimes 1 time a month. When my trial account expires, for some reason my password also stops working and I have to reset my sap.com password. Going through all this process every time my account expires is time consuming and not very productive.
+it's very confusing 
+why the website s is on english language? i can not change it to german language
+The interface is unclear and the displayed information is sometimes not comprehensible.
+Great experience. .Thank you SAP BTP 
+BTP is excellent plateofrm for exploring various SAP technologies but the 365 days not enough. It would be good it trail accout can extended for same more months or years. 
+Process Integration service not available for enabling in new tenant.
+didnt get sap web ide
+SAP product footprint management is not include in this entitlement. HOw to add? IS it version issue?
+I am unable to add the integration suite in my account. Can anyone help on that
+Default Identity Provider is not Enabled for trail id even though it shows as Active
+Is it possible to add a link from a CF app event (e.g. crash) to get to the Cabana dashboard logs for this app in a timeframe of +- 5 seconds?
+"BTP is not letting me login while i was working for Integration due to which alot of my time consume in figure out the password.
+Where as same credentials are working fine for Launchpad."
+I'm unable to redirect to SAP IRPA Cloud Factory
+SAP Cloud Foundry Market Place does not have many popular services such as MariaDB, Kafka, Redis, Cassandra
+ok
+good
+"Usage is very confusing for users not familiar with the Cockpit. Both https://account.hanatrial.ondemand.com/cockpit/ and https://cockpit.hanatrial.ondemand.com/cockpit leads to https://cockpit.hanatrial.ondemand.com/cockpit/#/home/trial but only on the first one I can find the service I want to enable (SAP Jam). I can only find it because I have the full link saved as a favourite: https://account.hanatrial.ondemand.com/cockpit/#/acc/...xxx...trial/services. I did the help tutorial on the homepage and it was helpful to understand that there are several different scopes (global account, sub accounts, dev space) but anyway it is too confusing for newcomers. On Home [Europe (Rot) - Cloud Foundry - Trial]/...xxx...trial/trial/dev I can see 38 services (no SAP Jam) whereas on 
+Home [Europe (Rot) - Trial]/Europe (Rot) - Trial/...xxx...trial I can see 40 services with SAP Jam present. I cannot easily understand the difference between both and also cannot switch between both easily. They look pretty much the same but clearly they are not, somehow. I am using the same user. I spent 20 minutes clicking on all possible locations and I was able to figure out by myself, there are two environments CF and NEO. So my final suggestion is: 1) better let the users know when they are NEO vs CF. The *only* indication for this is that when using CF it is stated on the breadcrumbs. If you are using NEO there is absolutely no way of knowing which one you are using (?). Considering this is a very important distinction, why not make it more obvious? Maybe on the Title? ""SAP Cloud Platform Cockpit - NEO"" and ""SAP Cloud Platform Cockpit - Cloud Foundry"". 2) Also add this distinction of NEO vs CF to the newcomers tutorial. For this aspect it was more confusing because if it does not mentions NEO it looks like it does not exist and at the same time SAP Jam is only available on NEO. "
+This comment is specific to the actions of Role Collections and Assign Roles.  As of now, only on role may be selected at a time by clicking the dropdown options of first Application Identifier, then the Role Template and then the Role, which becomes cumbersome when assigning multiple values.  This UI needs to be changed to allow selection of multiple entries in one go, or as few entries as possible.
+Very good, but I would like more time to test. My account has expired and no longer has the option to verify. I am exploring the features wrapping the Mobile. Awesome features.
+I am nodejs developer. Now learning SAP CF
+Cannot Navigate to required application launch
+only suggestion is its hard to understand the hana side please add more tutorials for hana databases. and sap web ide loading sometimes takes long time especially from asia i didnot have that problem when i was in europe
+Can not extend trial period
+Cant even go through  your tutorial, coz ur site isnt working. Very poor design. Cant assign company data to my account.
+i cant open a spaces if i cant open cloud foundry, coz my organization isnt even creating(is that becaouse of trial version?. but in ur tutorial i can do that easy even on trial account). Why the hell did this go live?
+Hello. "Service: Business Rules - Overview". Link "Documentation" is wrong.
+It was good learning experience
+Due to technical issues, we can only display your Neo subaccounts at the moment. While we're working on this problem, you can use the CF CLI to access your Cloud Foundry subaccounts. SeeRegions and API Endpoints Available for the Cloud Foundry Environment
+the page doesnt load properly at all
+Why the free account have no Cloud Integration? And I think the Tutorials are too few for SuccessFactors.
+My Demo Cloud is in Update pending and cannot access the enviroment for the last 3 days..
+I had to delete my trial, but even that did not work. I don't have confidence for this very experimental product..
+It's not possible to reactivate a Subaccount And it's also not possible do delete it.
+So, I'm pretending to be a new trial user, and I am staring at this page called "welcome to SAP Cloud Platform Trial", after I just completed a process that was also called "welcome to the trial". My first impression! --- The button I see is "Enter your trial account". But I AM ALREADY in my trial account. I see that I am logged in! Should I first click on this button, or on one of the "beginner" Starter scenarios? What happens if I make a mistake?? --- The sequence is wrong, and the GUI is wrong. The welcome page should literally be a one-time-only (checkbox to make it go away net time) welcome page that says: welcome, you can build applications and use services. you can see your account at the top right, and you can provide feedback. Your account will expire in 30 days unless you renew it. Got it? Ok, now press here to go to the CP cockpit. There should be only one button, and no links on the welcome page. Only one thing to click. It should go to the cockpit. --- In the cockpit, instead of the two useless "recipes" tab, we should have a "starter scenarios" tab in the left-menu. Click on that tab, and you get 20 tiles to pick from, ordered by difficulty, from a "tour of the CP cockpit" to integrate your app with SuccessFactors. These tiles open a separate browser tab, so that the cockpit stays open, and you can follow along.
+The subaccount is keeping the personality  [deletion in progress] already 10 min and I don't konw how to solve it
+layout does not match to open.sap.com/course
+unable to create or delete subaccounts
+Hi, My trial will be expire,how can I reuese trial version.
+I'm unable to find the RPA sub-accounts to configure
+Great examples and tutorials!  Well done!
+awesome, great job
+Extremely helpful for newbie like me..i will be true-blue to SAP :)
+I have 2 S-USER associated on same account, how can I switch from these 2 users?
+I do not see all the tiles available for my account, I want to subscribe Process Integration but it  is not getting display here
+Subaccount can't be deleted
+We are evaluating your RPA product. Could you extend my free trial?
+A co-worker with exactly the same setup as me has the enterprise messaging service in the service marketplace. But for my user I don't see this...
+Good learning experience
+In the cloud platform trial version, I cannot find SAP HANA services. Is it possible to have this service available to use for datawarehouse cloud trial platform. Thanks
+Hi Sap, I cannot verify my phone number to continue the trial.
+Would like to ask if the IOT cockpit trial has been excluded from SCP > service assignments? thanks!
+Nice
+i did not find the iot service in the trial account, it was a bit dissapointing because i did want to experience the service
+I like the design !
+so far, everything is good. I am a little concerned with when the free trial is going to expires. I would rather pay annual fees like $100 to be worry-free. that should be a win-win for SAP and users like me, just a thought. again, great product, thanks.
+The notifications are very helpful. I would like to be able to assign actions to a tenant administrator member and then report on status and history.
+easy to develop fiori apps. Not as easy to create node apis
+Enabling/Disabling of cloud foundry takes forever. And I want to be able to do this through a sdk/cli...
+excellent
